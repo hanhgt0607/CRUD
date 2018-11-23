@@ -1,0 +1,35 @@
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\bin\Debug\netcoreapp2.1\CRUD IdentityRole.deps.json
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\bin\Debug\netcoreapp2.1\CRUD IdentityRole.runtimeconfig.json
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\bin\Debug\netcoreapp2.1\CRUD IdentityRole.runtimeconfig.dev.json
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\bin\Debug\netcoreapp2.1\CRUD IdentityRole.dll
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.csproj.CoreCompileInputs.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.RazorAssemblyInfo.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.RazorAssemblyInfo.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.AssemblyInfoInputs.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.AssemblyInfo.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.TagHelpers.input.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.TagHelpers.output.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.RazorCoreGenerate.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.RazorTargetAssemblyInfo.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.RazorTargetAssemblyInfo.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\bin\Debug\netcoreapp2.1\CRUD IdentityRole.pdb
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\bin\Debug\netcoreapp2.1\CRUD IdentityRole.Views.dll
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\bin\Debug\netcoreapp2.1\CRUD IdentityRole.Views.pdb
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.csprojAssemblyReference.cache
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.Views.pdb
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.dll
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.pdb
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\CRUD IdentityRole.csproj.CopyComplete
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\IdentityRole\Create.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\IdentityRole\Edit.g.cshtml.cs
+C:\Users\Hanh\source\repos\CRUD IdentityRole\CRUD IdentityRole\obj\Debug\netcoreapp2.1\Razor\Views\IdentityRole\Index.g.cshtml.cs
